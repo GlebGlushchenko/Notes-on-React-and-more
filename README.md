@@ -8,7 +8,7 @@ ____
 
 ### Pure Function
 
-
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Function.png)
 
 Для того что бы функция могла называться *чистой* Pure она должна сочетать в себе несколько свойст 
 
@@ -20,11 +20,12 @@ Pure Function не должна мутировать данные которые
 <details><summary><b>Return</b><p></summary>
 
 Pure Function должна что то вернуть </p></details>
+<hr>
 
 
 
 
-Здесь я буду оставлять свои заметки, связанные с web разработкой в частности с React 
+*Здесь я буду оставлять свои заметки, связанные с web разработкой в частности с React*
 ## collapsible markdown?
 
 <details><summary>CLICK ME</summary>
