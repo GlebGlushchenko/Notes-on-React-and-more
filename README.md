@@ -8,7 +8,7 @@ ____
 
 ### Pure Function
 
-![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Function.png)
+
 
 Для того что бы функция могла называться *чистой* Pure она должна сочетать в себе несколько свойст 
 
