@@ -39,3 +39,6 @@ alert('Hello world!')
 
 </p>
 </details>
+
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/SPA.jpg)
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Component.jpg)
