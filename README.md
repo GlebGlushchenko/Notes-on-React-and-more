@@ -1,6 +1,7 @@
 # Notes on React and more
 
 ## React it doesn't hurt...maybe
+<b>React<b/>— это JavaScript-библиотека для разработки пользовательского интерфейса. 
 
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Ogmo.png)
 
