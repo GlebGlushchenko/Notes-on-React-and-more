@@ -1,10 +1,37 @@
 # Notes on React and more
 
 ## React it doesn't hurt...maybe
+<b>React<b/>— это JavaScript-библиотека для разработки пользовательского интерфейса. 
 
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Ogmo.png)
 
 ____
+
+### Single Page Application (SPA)
+<details><summary>SPA</summary>
+<p>
+
+Single Page Application: это веб-приложение или веб-сайт, использующий единственный HTML-документ как оболочку для всех веб-страниц и организующий взаимодействие с пользователем через динамически подгружаемые HTML, CSS, JavaScript, обычно посредством AJAX.
+
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/SPA.jpg)
+
+</p>
+</details>
+
+<hr>
+
+### Component
+<details><summary>Component</summary>
+<p>
+
+
+
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Component.jpg)
+
+</p>
+</details>
+
+<hr>
 
 ### Pure Function
 
@@ -25,6 +52,8 @@ Pure Function должна что то вернуть </p></details>
 
 
 
+
+
 *Здесь я буду оставлять свои заметки, связанные с web разработкой в частности с React*
 ## collapsible markdown?
 
@@ -39,3 +68,5 @@ alert('Hello world!')
 
 </p>
 </details>
+
+
