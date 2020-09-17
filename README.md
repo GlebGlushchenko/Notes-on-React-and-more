@@ -20,6 +20,23 @@ Single Page Application: это веб-приложение или веб-сай
 
 <hr>
 
+### JSX
+
+<details><summary>JSX</summary>
+<p>
+  
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/JSX.jpg)
+  
+  JSX - это расширение языка JavaScript.
+  <br>
+  JSX представляет собой объекты.
+  <br>
+  Babel компилирует JSX в вызовы `React.createElement()`
+
+</p>
+</details>
+<hr>
+
 ### Component
 <details><summary>Component</summary>
 <p>
