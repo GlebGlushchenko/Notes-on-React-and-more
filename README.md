@@ -50,6 +50,21 @@ Single Page Application: это веб-приложение или веб-сай
 
 <hr>
 
+### Props
+<details><summary>Component</summary>
+<p>
+
+
+
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/props1.jpg)
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/props2.jpg)
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/props3.jpg)
+
+</p>
+</details>
+
+<hr>
+
 ### Pure Function
 
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Function.png)
