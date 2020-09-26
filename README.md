@@ -51,7 +51,7 @@ Single Page Application: это веб-приложение или веб-сай
 <hr>
 
 ### Props
-<details><summary>Component</summary>
+<details><summary>Props</summary>
 <p>
 
 
