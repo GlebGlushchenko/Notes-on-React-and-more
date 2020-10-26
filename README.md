@@ -67,12 +67,17 @@ Single Page Application: это веб-приложение или веб-сай
 
 ### Pure Function
 
-Pure
-<hr>
+
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Function.png)
+<hr>
+Pure
+
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Pure-function.png)
+
 Dirty
+
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Dirty-function.png)
+
 
 Для того что бы функция могла называться _чистой_ Pure она должна сочетать в себе несколько свойст
 
