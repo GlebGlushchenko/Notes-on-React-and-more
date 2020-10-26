@@ -68,6 +68,7 @@ Single Page Application: это веб-приложение или веб-сай
 ### Pure Function
 
 Pure
+<hr>
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Function.png)
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Pure-function.png)
 Dirty
