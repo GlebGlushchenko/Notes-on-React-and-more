@@ -1,13 +1,15 @@
 # Notes on React and more
 
 ## React it doesn't hurt...maybe
-<b>React<b/>— это JavaScript-библиотека для разработки пользовательского интерфейса. 
+
+<b>React<b/>— это JavaScript-библиотека для разработки пользовательского интерфейса.
 
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Ogmo.png)
 
-____
+---
 
 ### Single Page Application (SPA)
+
 <details><summary>SPA</summary>
 <p>
 
@@ -38,10 +40,9 @@ Single Page Application: это веб-приложение или веб-сай
 <hr>
 
 ### Component
+
 <details><summary>Component</summary>
 <p>
-
-
 
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Component.jpg)
 
@@ -51,10 +52,9 @@ Single Page Application: это веб-приложение или веб-сай
 <hr>
 
 ### Props
+
 <details><summary>Props</summary>
 <p>
-
-
 
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/props1.jpg)
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/props2.jpg)
@@ -67,26 +67,27 @@ Single Page Application: это веб-приложение или веб-сай
 
 ### Pure Function
 
+Pure
 ![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Function.png)
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Pure-function.png)
+Dirty
+![Image alt](https://github.com/GlebGlushchenko/Notes-on-React-and-more/blob/master/Dirty-function.png)
 
-Для того что бы функция могла называться *чистой* Pure она должна сочетать в себе несколько свойст 
+Для того что бы функция могла называться _чистой_ Pure она должна сочетать в себе несколько свойст
 
 <details><summary><b>Immutable (Иммутабельность, неизменная)</b><p></summary>
 
 Pure Function не должна мутировать данные которые в неё приходят.
-Допустим данные пришли из *вне* и они являються { *Обьектом* }, то в случае если мы их мутируе *изменим* в нутри функции { *обьект* } который пришёл к нам из вне тоже измениться так как, к нам придёт не сам { *Обьект* }, а лишь ссылка на него.</details>
+Допустим данные пришли из _вне_ и они являються { _Обьектом_ }, то в случае если мы их мутируе _изменим_ в нутри функции { _обьект_ } который пришёл к нам из вне тоже измениться так как, к нам придёт не сам { _Обьект_ }, а лишь ссылка на него.</details>
 
 <details><summary><b>Return</b><p></summary>
 
 Pure Function должна что то вернуть </p></details>
+
 <hr>
 
+_Здесь я буду оставлять свои заметки, связанные с web разработкой в частности с React_
 
-
-
-
-
-*Здесь я буду оставлять свои заметки, связанные с web разработкой в частности с React*
 ## collapsible markdown?
 
 <details><summary>CLICK ME</summary>
@@ -95,10 +96,8 @@ Pure Function должна что то вернуть </p></details>
 #### yes, even hidden code blocks!
 
 ```javascript
-alert('Hello world!')
+alert('Hello world!');
 ```
 
 </p>
 </details>
-
-
